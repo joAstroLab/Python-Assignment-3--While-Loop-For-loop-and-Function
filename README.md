@@ -1,1 +1,1 @@
-# Python-Assignment-3--While-Loop-For-loop-and-Function
+# Python-Assignment-3- While-Loop, For-loop and Function
